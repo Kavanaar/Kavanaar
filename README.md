@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Kavana A R
 
 <!--
 **Kavanaar/Kavanaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Kavana A R
+# 
 
 🎓 Computer Science Engineering Student (2026)  
 💻 Aspiring Software Development Engineer  
